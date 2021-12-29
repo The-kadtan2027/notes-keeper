@@ -6,6 +6,6 @@
 
 <br>
 
-## To Check click [Here](/https://keeepernotes.netlify.app/)
+## To Check click [Here](https://keeepernotes.netlify.app/)
 
 this is basic notes keeper app created using react create app.
